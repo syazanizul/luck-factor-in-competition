@@ -1,7 +1,8 @@
 # luck-factor-in-competition
 Role of luck in a competitive environment
 
-Java project:
+Java project.
+
 A simulation project based on 4 variables:
 
 final int total_people = 300;   // how many people competing for to win
