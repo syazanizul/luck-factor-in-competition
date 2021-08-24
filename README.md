@@ -11,6 +11,6 @@ final int total_people = 300;   // how many people competing to win
 
 final int total_chosen = 3;     // how many people will get chosen
 
-final int max_nonluck = 9800;   // role of non-luck. the number will generated randomly max to this value
+final int max_nonluck = 9800;   // role of non-luck. a number will be generated randomly max to this value
 
-final int max_luck = 200;       // role of luck. the number will generated randomly max to this value
+final int max_luck = 200;       // role of luck. a number will be generated randomly max to this value
